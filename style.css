@@ -126,13 +126,7 @@ body {
     margin-left: 20px;
     height: 90px;
 }
-footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    margin-top: 50px;
-    z-index: 1;
-}
+
 h1,
 h2,
 h3,
